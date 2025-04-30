@@ -50,7 +50,7 @@ mail:pass2
 
 
 # Showcase💥
-![image](https://github.com/user-attachments/assets/68379282-2e21-4d48-84e9-c0ab0c0ea3f4)
+![image](https://github.com/user-attachments/assets/4790d13d-dec7-4388-ae02-a90f3366a85a)
 
 
 
