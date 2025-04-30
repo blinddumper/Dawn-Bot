@@ -1,4 +1,4 @@
-import asyncio
+import asyncio 
 import os
 import subprocess
 
@@ -19,7 +19,7 @@ async def main():
     if config.PROXY['USE_PROXY_FROM_FILE']:
         if not os.path.exists(config.PROXY['PROXY_PATH']):
             with open(config.PROXY['PROXY_PATH'], 'w') as f:
-                f.write("")
+               f.write("")
     else:
         if not os.path.exists('sessions/accounts.json'):
             with open("sessions/accounts.json", 'w') as f:
