@@ -1,2 +1,2 @@
-email:pass1
-email:pass2
+mail:pass1
+mail:pass2
